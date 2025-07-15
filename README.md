@@ -9,7 +9,7 @@ A lightweight, real-time network traffic analyzer built with Python and Scapy �
 
 | Level | Milestone | Description | Status |
 |-------|-----------|-------------|--------|
-| 1️⃣ | **Basic Packet Capture** | Scapy-based CLI tool for capturing and parsing live traffic. | 🟢 In Progress (current) |
+| 1️⃣ | **Basic Packet Capture** | Scapy-based CLI tool for capturing and parsing live traffic. | 🟢 Done |
 | 2️⃣ | **Protocol Breakdown** | Identify TCP, UDP, ICMP, DNS; log counts and IPs. | ⚪ Planned |
 | 3️⃣ | **Real-Time Stats** | Print rolling summaries every 10s (packets, IPs, ports). | ⚪ Planned |
 | 4️⃣ | **Web API** | Flask-based backend to serve live traffic stats via JSON. | ⚪ Planned |
